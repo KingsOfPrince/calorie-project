@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+}
+
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+}
+
+.head{
+    text-align: center;
+}
+
+.centre{
+    padding: 70px 0;
+    border: 3px solid rgba(137, 137, 137, 0.291);
+    text-align: center;
+    background-color: rgba(47, 157, 187, 0.307);
+    border-radius: 30px;
+}
+
+#table{
+margin-left: 900px;
+}
+
+#particles-js canvas {
+    display: block;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
